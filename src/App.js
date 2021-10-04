@@ -1,9 +1,6 @@
 const App = () => {
   return (
-    <>
-      <h1>Hello World!</h1>
-      <button>Click Me</button>
-    </>
+    <h1>New App</h1>
   )
 }
 
